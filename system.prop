@@ -1,8 +1,8 @@
 ro.product.model.display=SSD_TA_Code
 ro.product.model.num=00WW
 ro.product.nickname=Nokia 6.2
-ro.build.software.version=V1.160
-ro.build.software.version.suf=_1_160
+ro.build.software.version=V1.170
+ro.build.software.version.suf=_1_170
 ro.product.chip=sdm636
 ro.nhk_feature=1
 ro.support_sim2_ringtone=1
